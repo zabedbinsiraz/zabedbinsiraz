@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jabed Hossain</h1>
-<span> Hey! Nice to see you.</span>
+<span align="center"> Hey! Nice to see you.</span>
 <h3 align="center">A Motivated Web Developer</h3>
-<p>Welcome to my GitHub </p>
-<p>I'm LinKon, Fullstack developer from  Bangladesh, currently living in  Bangladesh.</p>
+<p align="center">Welcome to my GitHub </p>
+<p align="center">I'm Jabed, Fullstack developer from  Bangladesh, currently living in  Bangladesh.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zabedbinsiraz&label=Profile%20views&color=0e75b6&style=flat" alt="zabedbinsiraz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zabedbinsiraz" alt="zabedbinsiraz" /></a> </p>
