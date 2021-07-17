@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jabed Hossain</h1>
-<p align="center"> <img src="https://user-images.githubusercontent.com/76840637/126036182-043cafda-e3db-4221-8e80-f572c7244ac8.png" />
+<p align="center"> <img src="![image](https://user-images.githubusercontent.com/76840637/126036218-0061ea5a-b3c6-46d9-8567-2ee76b918979.png)
+" />
 
  Hey! Nice to see you.</p>
 <h3 align="center">A Motivated Web Developer</h3>
