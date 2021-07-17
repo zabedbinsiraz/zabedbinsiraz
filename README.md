@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jabed Hossain</h1>
-<span align="center"> Hey! Nice to see you.</span>
+<p align="center"> Hey! Nice to see you.</p>
 <h3 align="center">A Motivated Web Developer</h3>
 <p align="center">Welcome to my GitHub </p>
 <p align="center">I'm Jabed, Fullstack developer from  Bangladesh, currently living in  Bangladesh.</p>
